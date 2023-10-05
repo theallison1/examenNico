@@ -1,0 +1,7 @@
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/ExamenNicolasEpinosaApplication.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/model/Product.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/model/dtoProduct/DtoProduct.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/controller/ControllerProduct.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/service/ServiceProduct.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/repo/ProductRepo.java
+/home/punk/Descargas/Examen_nicolasEpinosa/src/main/java/com/example/Examen_nicolasEpinosa/service/ServiceProductImpl.java
